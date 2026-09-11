@@ -58,7 +58,7 @@ A checklist será atualizada ao final de cada Checkpoint da disciplina.
 
 Os protótipos serão desenvolvidos no Figma e disponibilizados publicamente por meio do link abaixo:
 
-🔗 [Visualizar o protótipo no Figma]([https://www.figma.com/design](https://www.figma.com/design/EIm3zxNkvF8huo7l2yL9VR/NOSSO-ROLE?node-id=0-1&t=LmccyKLjtw573PYC-1))
+🔗 [Visualizar o protótipo no Figma](https://www.figma.com/design/EIm3zxNkvF8huo7l2yL9VR/NOSSO-ROLE?node-id=0-1&t=LmccyKLjtw573PYC-1)
 
 ### 1. Acesso
 
