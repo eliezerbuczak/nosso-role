@@ -58,7 +58,7 @@ A checklist será atualizada ao final de cada Checkpoint da disciplina.
 
 Os protótipos serão desenvolvidos no Figma e disponibilizados publicamente por meio do link abaixo:
 
-🔗 [Visualizar o protótipo no Figma](https://www.figma.com/design)
+🔗 [Visualizar o protótipo no Figma]([https://www.figma.com/design](https://www.figma.com/design/EIm3zxNkvF8huo7l2yL9VR/NOSSO-ROLE?node-id=0-1&t=LmccyKLjtw573PYC-1))
 
 ### 1. Acesso
 
@@ -136,9 +136,6 @@ As contas serão associadas a um casal pela tabela `casal_usuario`. Os encontros
 
 As políticas de segurança em nível de linha do Supabase, conhecidas como *Row Level Security* (RLS), permitirão que somente integrantes do casal consultem ou alterem os encontros e as memórias compartilhadas.
 
-🔗 [Visualizar a modelagem no diagrams.net](https://app.diagrams.net/#GSEU-ID-PUBLICO-DO-DIAGRAMA)
-
-🗂️ [Abrir o arquivo editável da modelagem](./modelagem-banco.drawio)
 
 ### Diagrama entidade-relacionamento
 
