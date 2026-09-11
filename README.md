@@ -1,4 +1,5 @@
-# Nosso Rolê
+# <img src="./logo.svg" width="35" valign="middle"> Nosso Rolê
+
 
 > Momentos simples, histórias inesquecíveis.
 
